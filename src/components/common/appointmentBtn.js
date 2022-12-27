@@ -5,7 +5,7 @@ import db from "../../constant/db";
 
 function AppointmentBtn() {
   return (
-    <div className="fixed right-0 bottom-1 md:top-[35%]">
+    <div className="fixed right-0  md:top-[35%]">
       <button className="btn-primary rounded-l-lg flex items-center gap-2 ">
         <span className="text-lg">
           <FaRegCalendarPlus />

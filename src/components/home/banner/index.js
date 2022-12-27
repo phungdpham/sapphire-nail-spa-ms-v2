@@ -21,7 +21,7 @@ function Banner() {
               </p>
             </div>
             <div className="flex flex-col lg:flex-row items-center justify-center gap-5">
-              <h3 className="rounded-md py-2 lg:py-2.5 px-4 lg:px-6 bg-transparent border text-lg text-white capitalize hover:bg-amber-500">
+              <h3 className="rounded-md py-2 lg:py-2.5 px-4 lg:px-6 bg-transparent border text-lg text-white capitalize bg-hover">
                 <a href="/about">about us</a>
               </h3>
             </div>

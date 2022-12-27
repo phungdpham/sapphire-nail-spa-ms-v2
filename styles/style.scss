@@ -36,7 +36,11 @@
 
 .bg-primary {
   @apply bg-slate-900
-}ç
+}
+
+.bg-hover{
+  @apply hover:bg-gradient-to-r hover:from-cyan-600 hover:to-cyan-400
+}
 
 .screen-width{
   @apply w-11/12 lg:w-10/12 xl:w-8/12;

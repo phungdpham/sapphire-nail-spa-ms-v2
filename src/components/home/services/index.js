@@ -56,7 +56,7 @@ function Services() {
           <a
             href="/services"
           >
-            <button className="bg-transparent border-2 border-solid border-white p-3 text-white rounded-lg lg:py-2.5 px-4 lg:px-6 bg-hover  ">
+            <button className="bg-transparent border-2 border-solid border-white p-3 text-white rounded-lg lg:py-2.5 px-4 lg:px-6 bg-hover ">
               All Services
             </button>
           </a>

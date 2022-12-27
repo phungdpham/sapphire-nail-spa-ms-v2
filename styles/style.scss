@@ -28,19 +28,19 @@
   @apply divide-cyan-400
 }
 
+.bg-hover{
+  @apply hover:bg-gradient-to-r hover:from-cyan-600 hover:to-cyan-400
+}
+
 .btn-primary {
   // @apply bg-gradient-to-tr from-amber-600 to-amber-400 p-4 text-white 
-  @apply bg-gradient-to-tr from-cyan-600 to-cyan-400 p-4 text-white 
+  @apply bg-gradient-to-tr from-cyan-600 to-cyan-400 p-2 text-white 
 
 }
 
 .bg-primary {
   @apply bg-slate-900
-}
-
-.bg-hover{
-  @apply hover:bg-gradient-to-r hover:from-cyan-600 hover:to-cyan-400
-}
+}ç
 
 .screen-width{
   @apply w-11/12 lg:w-10/12 xl:w-8/12;

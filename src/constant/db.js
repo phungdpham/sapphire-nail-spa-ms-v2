@@ -14,7 +14,7 @@ export default {
   hours: [
     { dates: 'mon - sat', time: '9:00am - 6:00pm' },
     // {dates: "saturday", time: "9:30am - 7:30pm"},
-    { dates: 'sunday', time: 'closed' },
+    { dates: 'sunday', time: '11:00am - 4:00pm' },
   ],
   booking: "https://booking.salonready.io/2ee3877e-fe8b-4f8b-8bc7-5c216d2ff832",
   map: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13760.7149887847!2d-88.8914877!3d30.4310344!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x79c6614306cb3786!2sSapphire%20Nail%20%26%20Spa!5e0!3m2!1sen!2sus!4v1672001728129!5m2!1sen!2sus',
